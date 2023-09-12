@@ -16,7 +16,6 @@ Whenever the user types something in one of the boxes and clicks on the save but
 always appear there and won't move.
 
 ![Planner](assets/images/planner.png)
-
 https://josuehernand.github.io/CalendarApp/
 
 ## Credits
